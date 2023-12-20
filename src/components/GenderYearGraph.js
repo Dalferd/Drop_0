@@ -106,7 +106,7 @@ const GenderYearGraph = ({ selectedRow }) => {
       labels,
       datasets: [
         { label: 'Girls', borderColor: 'PaleGreen', data: girlsData },
-        { label: 'Boys', borderColor: 'PaleTurquoise', data: boysData },
+        { label: 'Boys', borderColor: 'Purple', data: boysData },
         { label: 'Overall', borderColor: 'OrangeRed', data: overallData },
       ],
     };

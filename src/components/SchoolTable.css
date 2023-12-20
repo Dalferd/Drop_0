@@ -1,0 +1,38 @@
+/* SchoolTable.css */
+
+.tablename{
+  margin-left: 6rem;
+  margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* margin-top: 10px; */
+    overflow-y:auto;
+}
+/* 
+table {
+  
+    display: inline;
+    border-collapse: collapse;
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    overflow-y: hidden;
+  } */
+  
+  
+  /* th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  } */
+  
+  h2 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  

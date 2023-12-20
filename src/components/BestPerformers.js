@@ -29,7 +29,7 @@ const BestPerformers = () => {
             <tr key={index} className={index === 0 ? 'row-district-a' : 'row-lighter'} style={{ backgroundColor: getRowColor(index) }}>
               <td>{district}</td>
               <td className='Percent'>{specificValues[index]}</td>
-              <td>Placeholder</td>
+              <td>Secondary</td>
             </tr>
           ))}
         </tbody>

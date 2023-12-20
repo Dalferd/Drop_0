@@ -9,6 +9,8 @@
     
   }
   .CriticalTitle{
+    background: #c3a19c;
+    backdrop-filter: blur(8.5px);
     font-size: 20px;
     text-align: left;
     /* border: 2px solid #216e28;  */
@@ -17,13 +19,15 @@
   
   }
   .tbody{
-    border: 2px solid #bb1212;
+    /* border: 2px solid #bb1212; */
     padding: 5px;
   }
   
   .critical-table {
     width: 100%;
-    border: 2px solid #bb1212;
+    /* border: 2px solid #bb1212; */
+    border-radius: 25px;
+    overflow: hidden;
 
   }
   
@@ -41,6 +45,7 @@
 
   .PercentCrit{
     color: #a11616;
+    font-weight: bold;
   }
   
   .row-lighterCrit {

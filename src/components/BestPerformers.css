@@ -8,6 +8,9 @@
     
   }
   .PerformerTitle{
+    background: #9cc3bf;
+    backdrop-filter: blur(8.5px);
+
     font-size: 20px;
     text-align: left;
     /* border: 2px solid #216e28;  */
@@ -16,13 +19,17 @@
   
   }
   .tbody{
-    border: 2px solid #216e28;
+    /* border: 1px solid #216e28; */
     padding: 5px;
+    border-radius: 25px;
+    overflow: hidden;
   }
   
   .best-performers-table {
     width: 100%;
-    border: 2px solid #216e28;
+    /* border: 1px solid #216e28; */
+    border-radius: 20px;
+    overflow: hidden;
 
   }
   
@@ -39,6 +46,7 @@
 
   }
   .Percent{
+    font-weight: bold;
     color: #216e28;
   }
   

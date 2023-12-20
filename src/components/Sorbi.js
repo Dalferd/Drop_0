@@ -1,7 +1,5 @@
 
 import React, { useEffect, useRef, useState, useMemo } from 'react';
-import ActionBarG from './ActionBarG'
-import transition from '../Transition'
 import * as d3 from 'd3';
 import * as topojson from 'topojson-client';
 import Slider from 'rc-slider';
@@ -194,8 +192,6 @@ const Gender = () => {
 
   return (
     <div>
-      <ActionBarG/>
-
       <div className='slider-container'>
         {/* <label htmlFor="yearSlider" className="slider-label">Choose Year</label> */}
         <Slider
@@ -247,6 +243,4 @@ const Gender = () => {
   );
 };
 
-export default transition(Gender);
-
-
+export default Gender;

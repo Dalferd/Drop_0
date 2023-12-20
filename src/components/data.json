@@ -1,0 +1,266 @@
+[
+    {
+        "district": "Ahmedabad",
+        "income": 1106.8493,
+        "primary": 0,
+        "secondary": 1.58,
+        "higher_secondary": 13.19,
+        "category": "Higher Average income"
+    },
+    {
+        "district": "Amreli",
+        "income": 419.178,
+        "primary": 0,
+        "secondary": 4.44,
+        "higher_secondary": 20,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Anand",
+        "income": 386.3013,
+        "primary": 0,
+        "secondary": 1.82,
+        "higher_secondary": 21.94,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Aravalli",
+        "income": 449.31506,
+        "primary": 0,
+        "secondary": 1.92,
+        "higher_secondary": 16.83,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Banas kantha",
+        "income": 397.2602,
+        "primary": 0,
+        "secondary": 8.56,
+        "higher_secondary": 19.65,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Bharuch",
+        "income": 854.7945,
+        "primary": 0,
+        "secondary": 3.36,
+        "higher_secondary": 22.95,
+        "category": "Higher Average income"
+    },
+    {
+        "district": "Bhavnagar",
+        "income": 457.5342,
+        "primary": 0,
+        "secondary": 5.04,
+        "higher_secondary": 15.49,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Botad",
+        "income": 764.38356,
+        "primary": 0,
+        "secondary": 4.1,
+        "higher_secondary": 20.78,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "ChhotaUdepur",
+        "income": 830.13698,
+        "primary": 0.49,
+        "secondary": 8.18,
+        "higher_secondary": 15.32,
+        "category": "Higher Average income"
+    },
+    {
+        "district": "Dang",
+        "income": 419.178,
+        "primary": 1.73,
+        "secondary": 5.3,
+        "higher_secondary": 17.65,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Devbhoomi Dwarka",
+        "income": 789.041,
+        "primary": 0.16,
+        "secondary": 5.93,
+        "higher_secondary": 26.68,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Dohod",
+        "income": 239.5068,
+        "primary": 0.35,
+        "secondary": 6.71,
+        "higher_secondary": 26.64,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Gandhinagar",
+        "income": 1019.18,
+        "primary": 7.66,
+        "secondary": 8.74,
+        "higher_secondary": 13.09,
+        "category": "Higher Average income"
+    },
+    {
+        "district": "Gir Somnath",
+        "income": 367.12328,
+        "primary": 0,
+        "secondary": 5.87,
+        "higher_secondary": 17.6,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Jamnagar",
+        "income": 789.041,
+        "primary": 1.48,
+        "secondary": 7.37,
+        "higher_secondary": 20.92,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Junagadh",
+        "income": 367.12328,
+        "primary": 0.49,
+        "secondary": 2.37,
+        "higher_secondary": 15.26,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Kachchh",
+        "income": 723.28767,
+        "primary": 0,
+        "secondary": 9.12,
+        "higher_secondary": 25.06,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Kheda",
+        "income": 386.3013,
+        "primary": 0,
+        "secondary": 3.98,
+        "higher_secondary": 24.13,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Mahesana",
+        "income": 632.8767,
+        "primary": 0.05,
+        "secondary": 3.64,
+        "higher_secondary": 22.19,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Mahisagar",
+        "income": 279.45205,
+        "primary": 0,
+        "secondary": 1.97,
+        "higher_secondary": 16.4,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Morbi",
+        "income": 657.5342,
+        "primary": 0.32,
+        "secondary": 8.65,
+        "higher_secondary": 18.86,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Narmada",
+        "income": 854.7945,
+        "primary": 0.62,
+        "secondary": 3.61,
+        "higher_secondary": 18.69,
+        "category": "Higher Average income"
+    },
+    {
+        "district": "Navsari",
+        "income": 591.7808,
+        "primary": 0.08,
+        "secondary": 0,
+        "higher_secondary": 13.98,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Panch mahals",
+        "income": 239.5068,
+        "primary": 0,
+        "secondary": 4.76,
+        "higher_secondary": 22.69,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Patan",
+        "income": 509.589,
+        "primary": 0.1,
+        "secondary": 5.36,
+        "higher_secondary": 22.19,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Porbandar",
+        "income": 367.1232,
+        "primary": 0.31,
+        "secondary": 4.79,
+        "higher_secondary": 17.21,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Rajkot",
+        "income": 673.9726,
+        "primary": 1.03,
+        "secondary": 5.31,
+        "higher_secondary": 12.51,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Sabar kantha",
+        "income": 449.31506,
+        "primary": 0.24,
+        "secondary": 4.26,
+        "higher_secondary": 16.59,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Surat",
+        "income": 687.6712,
+        "primary": 0.4,
+        "secondary": 5.91,
+        "higher_secondary": 11.88,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Surendernagar",
+        "income": 520.5479,
+        "primary": 0.16,
+        "secondary": 8.59,
+        "higher_secondary": 19.87,
+        "category": "Lower Average income"
+    },
+    {
+        "district": "Tapi",
+        "income": 687.6712,
+        "primary": 0.49,
+        "secondary": 5.66,
+        "higher_secondary": 11.92,
+        "category": "Moderate Average income"
+    },
+    {
+        "district": "Vadodra",
+        "income": 830.13698,
+        "primary": 0,
+        "secondary": 3.64,
+        "higher_secondary": 21.48,
+        "category": "Higher Average income"
+    },
+    {
+        "district": "Valsad",
+        "income": 591.7808,
+        "primary": 0.39,
+        "secondary": 4.3,
+        "higher_secondary": 13.1,
+        "category": "Moderate Average income"
+    }
+]

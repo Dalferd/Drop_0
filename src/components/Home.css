@@ -8,70 +8,104 @@
     padding: 14px;
     margin: 5px;
 }
-
-.tile1{
-    display: flex;
-    flex-direction: column;
-    padding: 25px;
-  margin: 10px;
-  margin-top: 40px;
-  margin-bottom: 25rem;
-  background: rgba(97, 208, 160, 0.505);
-  backdrop-filter: blur(6.5px);
-  border-radius: 10px;
-  border: 1px solid rgba(196, 194, 194, 0.38);
-  width: 25rem;
-
+.Policies1{
+    white-space: pre-wrap;
+    text-align: justify;
+    font-size: 18px;
+  font-family: 'IBM Plex Sana Thai Looped', sans-serif;
+  background: #acc5d0;
+  background: rgba(179, 208, 219, 0.8);
+    box-shadow: 0 8px 32px 0 rgba(67, 69, 98, 0.37);
+    backdrop-filter: blur(8.5px);
+    border-radius: 10px;
+    padding: 5px;
+  
+    
 }
-
-.tile1-item{
-    display: flex;
-    width: 90%;
-    align-items: center;
-    flex-direction: column;
-    margin: 8px;
-    padding: 4px;
-    border-radius: 14px;
+.Policies2{
+    white-space: pre-wrap;
+    text-align: justify;
+    font-size: 18px;
+  font-family: 'IBM Plex Sana Thai Looped', sans-serif;
+  background: #acc5d0;
+  background: rgba(179, 208, 219, 0.8);
+    box-shadow: 0 8px 32px 0 rgba(67, 69, 98, 0.37);
+    backdrop-filter: blur(8.5px);
+    border-radius: 10px;
+    padding: 5px;
+  
+    
 }
-.tile2{
-    display: flex;
-    padding: 25px;
-    margin: 10px;
-    flex-direction: column;
-    margin-top: 20px;
-    margin-bottom: 15rem;
-    background: rgba(114, 224, 196, 0.505);
+.Policies3{
+    white-space: pre-wrap;
+    text-align: justify;
+    font-size: 18px;
+  font-family: 'IBM Plex Sana Thai Looped', sans-serif;
+  background: #acc5d0;
+  background: rgba(179, 208, 219, 0.8);
+    box-shadow: 0 8px 32px 0 rgba(67, 69, 98, 0.37);
+    backdrop-filter: blur(8.5px);
+    border-radius: 10px;
+    padding: 5px;
+  
+    
+}
+.img{
+    width: 250px;
+    margin-left: 130px;
+    margin-top: 40px;
+}
+.img2{
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+.Tile1{
+    position:absolute;
+    /* margin-top: 8rem; */
+    padding-top: 20px;
+    width: 32rem;
+    background: rgba(127, 216, 178, 0.505);
     backdrop-filter: blur(6.5px);
     border-radius: 10px;
-    border: 1px solid rgba(196, 194, 194, 0.38);
-    width: 20rem;
+    height: 52vh;
 }
-.tile3{
-    display: flex;
-    padding: 25px;
-    margin: 10px;
-    flex-direction: column;
-    margin-top: 25rem;
-    margin-bottom: 10rem;
-    background: rgba(114, 224, 196, 0.505);
+.MapName{
+    padding-top: 10px;
+    padding-left: 14px;
+}
+.Tile2{
+    padding: 10px 20px 10px 10px;
+    width: 23rem;
+    background: rgba(163, 235, 204, 0.505);
     backdrop-filter: blur(6.5px);
     border-radius: 10px;
-    border: 1px solid rgba(196, 194, 194, 0.38);
-    width: 10rem;
+    right: 0;
+    
 }
-.tilecol1{
-  flex-direction: row;
-  display: flex;
-  height: 100%;
-  padding: 20px;
-  margin-top: 30px;
-  width:30rem;
+.Left-half{
+    width: 40%;
+    margin-top: 2rem;
+    
 }
-
-.tilecol2{
-    flex-direction: row;
+.Right-half{
     display: flex;
-    height: 100%;
+    width: 80%;
+    margin-left: 34rem; 
+}
+.Upper-half{
+    flex: none;
+}
+.Lower-half{
+    flex: none;
+}
+.Tile3{
     padding: 20px;
-    margin-top: 30px;
-  }
+    padding-left: 30px;
+    margin-top: 20px;
+    height: 50vh;
+    width: 56rem;
+    background: rgba(97, 208, 160, 0.505);
+    backdrop-filter: blur(6.5px);
+    border-radius: 10px;
+    
+}

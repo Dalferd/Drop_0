@@ -27,7 +27,7 @@ const CriticalDist = () => {
             <tr key={index} className={index === 0 ? 'row-district-aCrit' : 'row-lighterCrit'} style={{ backgroundColor: getRowColor(index) }}>
               <td>{district}</td>
               <td className='PercentCrit'>{specificValues[index]}</td>
-              <td>Placeholder</td>
+              <td>Secondary</td>
             </tr>
           ))}
         </tbody>

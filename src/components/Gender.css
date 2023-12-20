@@ -1,0 +1,122 @@
+/* GujaratMap.css */
+
+.custom-slider {
+    margin-top: 3rem;
+    display: flex;
+    width: 340px;
+    align-self: center;
+    margin-left: 120px;
+  }
+  
+.svg-container {
+    display: inline-block;
+    width: 90%;
+    vertical-align: top;
+    overflow: hidden;
+  }
+  .container {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+    margin-left: 10rem;
+    margin-top: 10px;
+    justify-content: space-between;
+    width: 90%;
+    height: 40%;
+  }
+
+  .svg-container2 {
+    display: inline-block;
+    width: 100%;
+    margin-left: 25%;
+    vertical-align: top;
+    overflow: hidden;
+  }
+  
+  
+  .hovered {
+    fill: rgb(25, 108, 107);
+  }
+  
+  .slider-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .rc-slider {
+    position: relative;
+    height: 14px;
+    padding: 5px;
+    width: 95%;
+  }
+  
+  .rc-slider-handle {
+    position: absolute;
+    margin-left: -7px;
+    margin-top: -5px;
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+    border-radius: 50%;
+    background-color: #1890ff;
+    border: 2px solid #1890ff;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .rc-slider-track {
+    position: absolute;
+    left: 7px;
+    right: 7px;
+    height: 10px;
+    border-radius: 10px;
+    background-color: #1890ff;
+  }
+  
+  .rc-slider-rail {
+    position: absolute;
+    left: 7px;
+    right: 7px;
+    height: 4px;
+    border-radius: 4px;
+    background-color: #e9e9e9;
+  }
+  
+  .rc-slider-step {
+    position: absolute;
+    width: 100%;
+    height: 4px;
+    background: transparent;
+  }
+  
+  .rc-slider-mark {
+    position: absolute;
+    top: 18px;
+    left: 7px;
+    right: 7px;
+    font-size: 12px;
+    color: #666;
+  }
+  
+  .rc-slider-mark-text {
+    display: inline-block;
+    position: absolute;
+    color: black;
+    white-space: nowrap;
+    transform: translateX(-50%);
+    cursor: pointer;
+  }
+  
+.label{
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+}
+
+.label2{
+    width: 80%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}

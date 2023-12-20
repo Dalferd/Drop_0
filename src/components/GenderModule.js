@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const YourComponent = () => {
   const [fullResponse, setFullResponse] = useState(null);
-  const apiKey = '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';
+  const apiKey = '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';
 
   useEffect(() => {
     const fetchData = async () => {

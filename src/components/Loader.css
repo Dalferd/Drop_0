@@ -1,0 +1,29 @@
+.loader-container {
+  position: fixed;
+    display: flex;
+    margin-left: 35rem;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust the height as needed */
+  }
+  
+  .loader-image {
+    animation: loadEnlargeFade 3s linear forwards; /* Adjust the total animation duration */
+    width: 400px; /* Adjust the size of your loader image */
+  }
+  
+  @keyframes loadEnlargeFade {
+    0% {
+      opacity: 0;
+      transform: scale(1.0);
+    }
+    50% {
+      opacity: 1;
+      transform: scale(1.5);
+    }
+    100% {
+      opacity: 0;
+      transform: scale(1.5);
+    }
+  }
+  

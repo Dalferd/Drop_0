@@ -11,6 +11,7 @@ import Region from './Components/Region';
 import CastAnalysis from './Components/CastAnalysis';
 
 import { AnimatePresence } from 'framer-motion';
+import Loader from './Components/loader';
 
 function App() {
 
@@ -18,7 +19,10 @@ function App() {
 
   return (
     <div className="App">
+
         <Sidebar/>
+      {/* <Loader/> */}
+
         <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
           <Route index element={<Home/>}/>
