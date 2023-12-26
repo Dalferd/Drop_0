@@ -137,7 +137,7 @@ const Sidebar = () => {
                 </Link>
             </motion.div>
 
-            {/* <motion.div 
+            <motion.div 
              layout
              whileHover={{
                  backgroundColor: "rgba(255, 255, 255, 0.3)",
@@ -153,7 +153,7 @@ const Sidebar = () => {
                 <Link className='side-link' to="/income">
                     Income
                 </Link>
-            </motion.div> */}
+            </motion.div>
 
         </motion.div>
 
