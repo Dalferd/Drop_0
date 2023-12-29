@@ -134,7 +134,7 @@ const ChartComponent = ({ selectedRow,filePath }) => {
     <div className='chart'>
       <div className= 'getAnalysis'>
         <h4 className='div1'>{district}</h4> 
-        <Link to={{ pathname: "/CastAnalysis", search: `?district=${selectedRow}` }} className='button-link'>Get Cast Analysis</Link>
+        <Link to={{ pathname: "/CastAnalysis", search: `?district=${selectedRow}` }} className='button-link'>Get Caste Analysis</Link>
       </div>
       <div>
         <canvas ref={canvasRef} width="650" height="300"></canvas>

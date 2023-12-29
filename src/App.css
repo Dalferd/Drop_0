@@ -1,19 +1,117 @@
-.App {
+
+.App{
   display: flex;
-  justify-content: space-between;
+  font-family: 'IBM Plex Sana Thai Looped', sans-serif;
+  color: rgb(74, 75, 75);
+  background: linear-gradient(60deg, #f7f9fa, #cbe3ed);
+}
+.body_container{
+  flex: 1;
+  
+  padding-left: 10px, 30px, 10px, 40px;
+  margin-right: 25rem;
+}
+.content{
+  flex: 1;
+  padding: 20px;
+}
+.sidebar_container{
+  
+  height: 100vh;
+  position: sticky;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  top: 0;
+  left: 0;
+}
+.PgTitle{
+  margin: 40px;
+}
+.sidebar{
+  display: flex;
+  background: #a1c0cd;
+  width: 12rem;
+  height: 85%;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+  overflow: auto;
+  padding: 14px;
+  margin: 5px;
+  margin-left: 15px;
+  background: rgba(170, 193, 202, 0.5);
+  box-shadow: 0 8px 32px 0 rgba(67, 69, 98, 0.37);
+  backdrop-filter: blur(8.5px);
+  border-radius: 10px;
+  border: 1px solid rgba(196, 194, 194, 0.38);
+
 }
 
+.profile{
+  display: flex;
+  align-items: center;
+  width: 8rem;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  align-self: center;
+}
+.side-logo>img{
+  width: 100%;
+}
+/* .side-link{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 
-/* Media query for responsive design */
-/* @media (max-width: 768px) {
-  .App {
-    flex-direction: column;  On smaller screens, stack them vertically 
-  }
+} */
 
-  .left-half,
-  .right-half {
-    width: 100%; Make them take up full width on smaller screens 
-    margin-bottom: 10px;  Optional: Add spacing between them
-  }
-} 
-*/
+.side-items{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 20px;
+  
+
+}
+
+.side-item{
+  display: flex;
+  width: 90%;
+  align-items: center;
+  flex-direction: column;
+  margin: 6px;
+  padding: 4px;
+  margin-top: 0px;
+  border-radius: 14px;
+  
+}
+
+.side-link{
+  padding: 14px 18px;
+  text-decoration: none;
+  color: rgb(49, 65, 52);
+}
+
+.slide-in{
+  position:fixed ;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 86%;
+  backdrop-filter:blur(8.5px) ;
+  background: #04364A;
+  transform-origin: right;
+}
+
+.slide-out{
+  position:fixed ;
+  top: 0;
+  right: 0;
+  height: 100vh;
+  width: 86%;
+  background: #04364A;
+  backdrop-filter:blur(8.5px) ;
+  transform-origin: left;
+}

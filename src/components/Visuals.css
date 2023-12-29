@@ -1,6 +1,6 @@
 .Visuals {
     height: 100vh;
-    width: 96%;
+    width: 80%;
     padding: 2%;
     display: flex;
     flex-direction: row;
@@ -10,19 +10,24 @@
   
   .left-half{
     flex: none;
-    width: 50%;
+    width: 33%;
     height: 95vh; /* Adjust the height as needed */
     overflow-y: auto;
+    margin-right: 30px;
+    cursor: pointer;
   }
 
   .right-half {
     align-items: center;
     align-content: center;
     flex: none;
-    width: 50%;
+    width: 67%;
     height: 100vh; /* Adjust the height as needed */
   }
-  
+  ::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+  }
   
   /* Media query for responsive design */
   @media (max-width: 768px) {

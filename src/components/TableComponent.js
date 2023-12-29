@@ -75,13 +75,13 @@ const TableComponent = ({ onRowHover, filePath}) => {
       {tableData.length > 0 ? (
       <table className="custom-table">
         <tbody>
-        <tr>
+        {/* <tr>
         <th></th>
           <th colSpan={3}>Primary</th>
           <th colSpan={3}>Higher Primary</th>
           <th colSpan={3}>Secondary</th>
-        </tr>
-        <tr>
+        </tr> */}
+        {/* <tr>
             <th onClick={() => handleSort('Location')} className={sortConfig.key === 'Location' ? sortConfig.direction : ''} >Location</th>
             <th onClick={() => handleSort('Girls_1')} className={sortConfig.key === 'Girls_1' ? sortConfig.direction : ''} >Girls</th>
             <th onClick={() => handleSort('Boys_1')} className={sortConfig.key === 'Boys_1' ? sortConfig.direction : ''} >Boys</th>
@@ -92,7 +92,7 @@ const TableComponent = ({ onRowHover, filePath}) => {
             <th onClick={() => handleSort('Girls_3')} className={sortConfig.key === 'Girls_3' ? sortConfig.direction : ''} >Girls</th>
             <th onClick={() => handleSort('Boys_3')} className={sortConfig.key === 'Boys_3' ? sortConfig.direction : ''} >Boys</th>
             <th onClick={() => handleSort('Overall_3')} className={sortConfig.key === 'Overall_3' ? sortConfig.direction : ''} >Overall</th>
-          </tr>
+          </tr> */}
         {sortedTableData.map((item, rowIndex) => (
             <tr key={rowIndex}
               className={rowIndex === hoveredRow ? 'hov-row' : (rowIndex % 2 === 0 ? 'even-row' : 'odd-row')}
@@ -101,7 +101,7 @@ const TableComponent = ({ onRowHover, filePath}) => {
                   onMouseEnter={() => handleRowHover(rowIndex,item.Index -1)}
             >
               <td className={ item.Location === '_Overall_' ? 'overallRate' : ''}>{item.Location}</td>
-              <td>{item.Girls_1}</td>
+              {/* <td>{item.Girls_1}</td>
               <td>{item.Boys_1}</td>
               <td>{item.Overall_1}</td>
               <td>{item.Girls_2}</td>
@@ -109,7 +109,7 @@ const TableComponent = ({ onRowHover, filePath}) => {
               <td>{item.Overall_2}</td>
               <td>{item.Girls_3}</td>
               <td>{item.Boys_3}</td>
-              <td>{item.Overall_3}</td>
+              <td>{item.Overall_3}</td> */}
             </tr>
           ))}
          

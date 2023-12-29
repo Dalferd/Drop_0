@@ -1,8 +1,51 @@
-
 .Analysis{
     padding: 10px;
 }
 
 h1{
     margin: 0px;
+}
+
+
+.chart-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 95%;
+  }
+  
+.polarChart {
+
+    margin: 0 ;
+    
+}
+
+.selecters {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.dropdown-container {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    background-color: rgba(249, 249, 249, 0);
+}
+
+.dropdown-button {
+    text-wrap: nowrap;
+    margin-right: 2%;
+    margin-left: 2%;
+  }
+.dropdown-content {
+  border: 1px;
+  border-color: black;
+  border-radius: 4px;
+  background-color: #f9f9f900;
+  font-size: medium;
+  font-weight: bolder;
 }

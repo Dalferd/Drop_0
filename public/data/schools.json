@@ -1,0 +1,154 @@
+{
+  "schools": [
+    {
+      "location": "AHMEDABAD-Ranip",
+      "data": [
+        {"social_category": "General", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.2, "boys_upper_primary": 0.3, "overall_upper_primary": 0.25, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+        {"social_category": "OBC", "girls_primary": 0.3, "boys_primary": 0.4, "overall_primary": 0.35, "girls_upper_primary": 0.5, "boys_upper_primary": 0.4, "overall_upper_primary": 0.45, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+        {"social_category": "SC", "girls_primary": 0.2, "boys_primary": 0.3, "overall_primary": 0.25, "girls_upper_primary": 0.1, "boys_upper_primary": 0.2, "overall_upper_primary": 0.15, "girls_secondary": 0.4, "boys_secondary": 0.5, "overall_secondary": 0.45},
+        {"social_category": "ST", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+        {"social_category": "Overall", "girls_primary": 0.35, "boys_primary": 0.45, "overall_primary": 0.4, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65}
+      ]
+    },
+    {
+      "location": "AHMEDABAD-Motera",
+      "data": [
+        {"social_category": "General", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.3, "boys_upper_primary": 0.4, "overall_upper_primary": 0.35, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+        {"social_category": "OBC", "girls_primary": 0.2, "boys_primary": 0.3, "overall_primary": 0.25, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.5, "boys_secondary": 0.6, "overall_secondary": 0.55},
+        {"social_category": "SC", "girls_primary": 0.1, "boys_primary": 0.2, "overall_primary": 0.15, "girls_upper_primary": 0.2, "boys_upper_primary": 0.3, "overall_upper_primary": 0.25, "girls_secondary": 0.3, "boys_secondary": 0.4, "overall_secondary": 0.35},
+        {"social_category": "ST", "girls_primary": 0.3, "boys_primary": 0.4, "overall_primary": 0.35, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+        {"social_category": "Overall", "girls_primary": 0.25, "boys_primary": 0.35, "overall_primary": 0.3, "girls_upper_primary": 0.35, "boys_upper_primary": 0.45, "overall_upper_primary": 0.4, "girls_secondary": 0.5, "boys_secondary": 0.6, "overall_secondary": 0.55}
+      ]
+    },
+    {
+      "location": "AHMEDABAD-Chandkheda",
+      "data": [
+        {"social_category": "General", "girls_primary": 0.3, "boys_primary": 0.4, "overall_primary": 0.35, "girls_upper_primary": 0.1, "boys_upper_primary": 0.2, "overall_upper_primary": 0.15, "girls_secondary": 0.4, "boys_secondary": 0.5, "overall_secondary": 0.45},
+        {"social_category": "OBC", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.2, "boys_upper_primary": 0.3, "overall_upper_primary": 0.25, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+        {"social_category": "SC", "girls_primary": 0.2, "boys_primary": 0.3, "overall_primary": 0.25, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.5, "boys_secondary": 0.6, "overall_secondary": 0.55},
+        {"social_category": "ST", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+        {"social_category": "Overall", "girls_primary": 0.35, "boys_primary": 0.45, "overall_primary": 0.4, "girls_upper_primary": 0.35, "boys_upper_primary": 0.45, "overall_upper_primary": 0.4, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65}
+      ]
+    },
+    {
+      "location": "AHMEDABAD-Ghatlodia",
+      "data": [
+        {"social_category": "General", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.2, "boys_upper_primary": 0.3, "overall_upper_primary": 0.25, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+        {"social_category": "OBC", "girls_primary": 0.3, "boys_primary": 0.4, "overall_primary": 0.35, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.5, "boys_secondary": 0.6, "overall_secondary": 0.55},
+        {"social_category": "SC", "girls_primary": 0.2, "boys_primary": 0.3, "overall_primary": 0.25, "girls_upper_primary": 0.1, "boys_upper_primary": 0.2, "overall_upper_primary": 0.15, "girls_secondary": 0.4, "boys_secondary": 0.5, "overall_secondary": 0.45},
+        {"social_category": "ST", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+        {"social_category": "Overall", "girls_primary": 0.35, "boys_primary": 0.45, "overall_primary": 0.4, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65}
+      ]
+    },
+    {
+      "location": "VADODARA-Alkapuri",
+      "data": [
+        {"social_category": "General", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.3, "boys_upper_primary": 0.4, "overall_upper_primary": 0.35, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+        {"social_category": "OBC", "girls_primary": 0.3, "boys_primary": 0.4, "overall_primary": 0.35, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+        {"social_category": "SC", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.1, "boys_upper_primary": 0.2, "overall_upper_primary": 0.15, "girls_secondary": 0.4, "boys_secondary": 0.5, "overall_secondary": 0.45},
+        {"social_category": "ST", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+        {"social_category": "Overall", "girls_primary": 0.45, "boys_primary": 0.55, "overall_primary": 0.5, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.65, "boys_secondary": 0.75, "overall_secondary": 0.7}
+      ]
+    },
+    {
+      "location": "VADODARA-Fatehgunj",
+      "data": [
+        {"social_category": "General", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+        {"social_category": "OBC", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+        {"social_category": "SC", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.2, "boys_upper_primary": 0.3, "overall_upper_primary": 0.25, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+        {"social_category": "ST", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05},
+        {"social_category": "Overall", "girls_primary": 0.55, "boys_primary": 0.65, "overall_primary": 0.6, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85}
+      ]
+    },
+    {
+        "location": "VADODARA-Karelibaug",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.8, "boys_primary": 0.9, "overall_primary": 0.85, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 1.1, "boys_secondary": 1.2, "overall_secondary": 1.15},
+          {"social_category": "OBC", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+          {"social_category": "SC", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.3, "boys_upper_primary": 0.4, "overall_upper_primary": 0.35, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+          {"social_category": "ST", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.8, "boys_upper_primary": 0.9, "overall_upper_primary": 0.85, "girls_secondary": 1.2, "boys_secondary": 1.3, "overall_secondary": 1.25},
+          {"social_category": "Overall", "girls_primary": 0.65, "boys_primary": 0.75, "overall_primary": 0.7, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05}
+        ]
+      },
+      {
+        "location": "VADODARA-Tandalja",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.9, "boys_primary": 1.0, "overall_primary": 0.95, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 1.3, "boys_secondary": 1.4, "overall_secondary": 1.35},
+          {"social_category": "OBC", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.8, "boys_upper_primary": 0.9, "overall_upper_primary": 0.85, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05},
+          {"social_category": "SC", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+          {"social_category": "ST", "girls_primary": 0.8, "boys_primary": 0.9, "overall_primary": 0.85, "girls_upper_primary": 0.9, "boys_upper_primary": 1.0, "overall_upper_primary": 0.95, "girls_secondary": 1.4, "boys_secondary": 1.5, "overall_secondary": 1.45},
+          {"social_category": "Overall", "girls_primary": 0.75, "boys_primary": 0.85, "overall_primary": 0.8, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 1.1, "boys_secondary": 1.2, "overall_secondary": 1.15}
+        ]
+      },
+      {
+        "location": "SURAT-Athwa",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+          {"social_category": "OBC", "girls_primary": 0.3, "boys_primary": 0.4, "overall_primary": 0.35, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+          {"social_category": "SC", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.2, "boys_upper_primary": 0.3, "overall_upper_primary": 0.25, "girls_secondary": 0.5, "boys_secondary": 0.6, "overall_secondary": 0.55},
+          {"social_category": "ST", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+          {"social_category": "Overall", "girls_primary": 0.45, "boys_primary": 0.55, "overall_primary": 0.5, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65}
+        ]
+      },
+      {
+        "location": "SURAT-Varachha",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+          {"social_category": "OBC", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+          {"social_category": "SC", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.3, "boys_upper_primary": 0.4, "overall_upper_primary": 0.35, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+          {"social_category": "ST", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05},
+          {"social_category": "Overall", "girls_primary": 0.55, "boys_primary": 0.65, "overall_primary": 0.6, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85}
+        ]
+      },
+      {
+        "location": "SURAT-Adajan",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.8, "boys_primary": 0.9, "overall_primary": 0.85, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 1.1, "boys_secondary": 1.2, "overall_secondary": 1.15},
+          {"social_category": "OBC", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+          {"social_category": "SC", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+          {"social_category": "ST", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.8, "boys_upper_primary": 0.9, "overall_upper_primary": 0.85, "girls_secondary": 1.2, "boys_secondary": 1.3, "overall_secondary": 1.25},
+          {"social_category": "Overall", "girls_primary": 0.65, "boys_primary": 0.75, "overall_primary": 0.7, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05}
+        ]
+      },
+      {
+        "location": "SURAT-Katargam",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.9, "boys_primary": 1.0, "overall_primary": 0.95, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 1.3, "boys_secondary": 1.4, "overall_secondary": 1.35},
+          {"social_category": "OBC", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.8, "boys_upper_primary": 0.9, "overall_upper_primary": 0.85, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05},
+          {"social_category": "SC", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+          {"social_category": "ST", "girls_primary": 0.8, "boys_primary": 0.9, "overall_primary": 0.85, "girls_upper_primary": 0.9, "boys_upper_primary": 1.0, "overall_upper_primary": 0.95, "girls_secondary": 1.4, "boys_secondary": 1.5, "overall_secondary": 1.45},
+          {"social_category": "Overall", "girls_primary": 0.75, "boys_primary": 0.85, "overall_primary": 0.8, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 1.1, "boys_secondary": 1.2, "overall_secondary": 1.15}
+        ]
+      },
+      {
+        "location": "RAJKOT-Jubilee",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+          {"social_category": "OBC", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+          {"social_category": "SC", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.3, "boys_upper_primary": 0.4, "overall_upper_primary": 0.35, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+          {"social_category": "ST", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05},
+          {"social_category": "Overall", "girls_primary": 0.55, "boys_primary": 0.65, "overall_primary": 0.6, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85}
+        ]
+      },
+      {
+        "location": "RAJKOT-Moti Tanki",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.8, "boys_primary": 0.9, "overall_primary": 0.85, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 1.1, "boys_secondary": 1.2, "overall_secondary": 1.15},
+          {"social_category": "OBC", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.7, "boys_upper_primary": 0.8, "overall_upper_primary": 0.75, "girls_secondary": 0.9, "boys_secondary": 1.0, "overall_secondary": 0.95},
+          {"social_category": "SC", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+          {"social_category": "ST", "girls_primary": 0.7, "boys_primary": 0.8, "overall_primary": 0.75, "girls_upper_primary": 0.8, "boys_upper_primary": 0.9, "overall_upper_primary": 0.85, "girls_secondary": 1.2, "boys_secondary": 1.3, "overall_secondary": 1.25},
+          {"social_category": "Overall", "girls_primary": 0.65, "boys_primary": 0.75, "overall_primary": 0.7, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 1.0, "boys_secondary": 1.1, "overall_secondary": 1.05}
+        ]
+      },
+      {
+        "location": "RAJKOT-Gondal Road",
+        "data": [
+          {"social_category": "General", "girls_primary": 0.6, "boys_primary": 0.7, "overall_primary": 0.65, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.8, "boys_secondary": 0.9, "overall_secondary": 0.85},
+          {"social_category": "OBC", "girls_primary": 0.3, "boys_primary": 0.4, "overall_primary": 0.35, "girls_upper_primary": 0.5, "boys_upper_primary": 0.6, "overall_upper_primary": 0.55, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65},
+          {"social_category": "SC", "girls_primary": 0.4, "boys_primary": 0.5, "overall_primary": 0.45, "girls_upper_primary": 0.2, "boys_upper_primary": 0.3, "overall_upper_primary": 0.25, "girls_secondary": 0.5, "boys_secondary": 0.6, "overall_secondary": 0.55},
+          {"social_category": "ST", "girls_primary": 0.5, "boys_primary": 0.6, "overall_primary": 0.55, "girls_upper_primary": 0.6, "boys_upper_primary": 0.7, "overall_upper_primary": 0.65, "girls_secondary": 0.7, "boys_secondary": 0.8, "overall_secondary": 0.75},
+          {"social_category": "Overall", "girls_primary": 0.45, "boys_primary": 0.55, "overall_primary": 0.5, "girls_upper_primary": 0.4, "boys_upper_primary": 0.5, "overall_upper_primary": 0.45, "girls_secondary": 0.6, "boys_secondary": 0.7, "overall_secondary": 0.65}
+        ]
+      }
+    ]
+  }

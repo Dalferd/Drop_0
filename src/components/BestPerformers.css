@@ -1,0 +1,59 @@
+/* BestPerformersTable.css */
+
+.actionTile {
+    display: flex;
+    justify-content: center;
+    width: 20rem;
+    margin: auto;
+    
+  }
+  .PerformerTitle{
+    background: #9cc3bf;
+    backdrop-filter: blur(8.5px);
+
+    font-size: 20px;
+    text-align: left;
+    /* border: 2px solid #216e28;  */
+  /* padding-bottom: 6px; */
+  border-bottom: 2px solid #216e28 ;
+  
+  }
+  .tbody{
+    /* border: 1px solid #216e28; */
+    padding: 5px;
+    border-radius: 25px;
+    overflow: hidden;
+  }
+  
+  .best-performers-table {
+    width: 100%;
+    /* border: 1px solid #216e28; */
+    border-radius: 20px;
+    overflow: hidden;
+
+  }
+  
+  .best-performers-table th,
+  .best-performers-table td {
+    padding: 8px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .row-district-a {
+    background-color: rgba(80, 200, 120, 0.7);
+    color: rgb(64, 64, 64);
+
+  }
+  .Percent{
+    font-weight: bold;
+    color: #216e28;
+  }
+  
+  .row-lighter {
+    color: rgb(64, 64, 64);
+    
+  }
+  
+  
+  

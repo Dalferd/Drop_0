@@ -1,0 +1,92 @@
+.school-container {
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 200px;
+    text-align: center; /* Center text content */
+  }
+  
+  .data-table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+  }
+  
+  .data-table th, .data-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .data-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .data-table input {
+    width: 70px;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  /* New style for centering the button */
+  .button-container {
+    text-align: center;
+  }
+  
+
+  .date-select {
+    margin-top: 20px;
+  }
+  
+  .date-select form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .date-select label {
+    margin-right: 10px;
+  }
+  
+  .date-select input {
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  .date-select input[type="submit"] {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
+  .date-select input[type="submit"]:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+  }
+
+.d1
+{
+    margin-right: 4px;
+}
+.d2
+{
+    margin-left: 4px;
+}

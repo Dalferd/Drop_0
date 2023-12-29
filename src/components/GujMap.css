@@ -1,0 +1,30 @@
+/* GujaratMap.css */
+
+.GujMap {
+    /* display: flex; */
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    
+  }
+  .slider-container{
+    margin-left: 80px;
+    
+    align-items: center;
+  }
+  .slider-label{
+    margin-top: 20px;
+    margin-left: 3rem;
+  }
+  
+  .size {
+    margin: auto;
+  }
+
+
+
+
+  
+  
+  

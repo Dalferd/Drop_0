@@ -1,0 +1,74 @@
+.ABDActionBar_container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .ABDstatic-column {
+    display: flex;
+    background: #a1c0cd;
+    width: 26rem;
+    height: 85%;
+    justify-content: start;
+    align-items: start;
+    flex-direction: column;
+    overflow: auto;
+    padding: 14px;
+    margin: 5px;
+    margin-right: 15px;
+    background: rgba(170, 193, 202, 0.5);
+    box-shadow: 0 8px 32px 0 rgba(67, 69, 98, 0.37);
+    backdrop-filter: blur(8.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(196, 194, 194, 0.38);
+  }
+  
+.ABDTitlePC{
+  padding: 25px;
+  margin: 10px;
+  background: rgba(116, 207, 198, 0.204);
+  backdrop-filter: blur(6.5px);
+  border-radius: 10px;
+  border: 1px solid rgba(196, 194, 194, 0.38);
+}
+
+.ABDTitleIns{
+  padding: 25px;
+  margin: 10px;
+  background: rgba(97, 208, 160, 0.505);
+  backdrop-filter: blur(6.5px);
+  border-radius: 10px;
+  border: 1px solid rgba(196, 194, 194, 0.38);
+  width: 20rem;
+}
+  
+  .ABDaction-items {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    
+  }
+  
+  .ABDside-itemA {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    flex-direction: column;
+    margin: 8px;
+    padding: 4px;
+    border-radius: 14px;
+  }
+  
+  .ABDside-link {
+    padding: 18px 18px;
+    margin-top: 1px;
+    text-decoration: none;
+    color: rgb(49, 65, 52);
+  }
+  

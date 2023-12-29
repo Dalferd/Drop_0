@@ -1,0 +1,54 @@
+
+
+.actionTileCrit {
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 20px;
+    
+  }
+  .CriticalTitle{
+    background: #c3a19c;
+    backdrop-filter: blur(8.5px);
+    font-size: 20px;
+    text-align: left;
+    /* border: 2px solid #216e28;  */
+  /* padding-bottom: 6px; */
+  border-bottom: 2px solid #bb1212 ;
+  
+  }
+  .tbody{
+    /* border: 2px solid #bb1212; */
+    padding: 5px;
+  }
+  
+  .critical-table {
+    width: 100%;
+    /* border: 2px solid #bb1212; */
+    border-radius: 25px;
+    overflow: hidden;
+
+  }
+  
+  .critical-table th,
+  .critical-table td {
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .row-district-aCrit {
+    background-color: rgba(243, 32, 19, 0.4);
+    color: rgb(64, 64, 64);
+
+  }
+
+  .PercentCrit{
+    color: #a11616;
+    font-weight: bold;
+  }
+  
+  .row-lighterCrit {
+    color: rgb(64, 64, 64);
+  }
+  
